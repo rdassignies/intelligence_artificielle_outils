@@ -1,9 +1,9 @@
 # Intelligence artificielle et outils informatiques
 
 ## Objectifs du cours 
-Tout d’abord, l'objectif est de donner aux juristes une culture d’interface, c’est-à-dire une bonne compréhension de l’Intelligence Artificielle (IA) dans ses différentes dimensions — technique, sécuritaire et sociétale — afin de saisir ses implications juridiques.
+L'objectif est de donner aux juristes une culture d’interface, c’est-à-dire une bonne compréhension de l’Intelligence Artificielle (IA) dans ses différentes dimensions — technique, sécuritaire et sociétale — afin de saisir ses implications juridiques.
 
-Ensuite, il vise à fournir aux étudiants des bases techniques pour comprendre et implémenter les outils informatiques qu’ils utiliseront au quotidien dans leur pratique professionnelle.
+Il vise à fournir aux étudiants des bases techniques pour comprendre et implémenter les outils informatiques qu’ils utiliseront au quotidien dans leur pratique professionnelle.
 ## Informations utiles
 Intelligence artificielle et outils informatiques
 
