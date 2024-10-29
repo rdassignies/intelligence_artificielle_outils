@@ -14,6 +14,7 @@ Il vise à fournir aux étudiants des bases techniques pour comprendre et implé
 
 ## Les notebooks
 https://colab.research.google.com/drive/1Veq38eBTALfimrhl6BrGo3BTQ-pbMf6B#scrollTo=soeuaBRhGMDU 
+
 https://colab.research.google.com/drive/14CnE-dfNStOE1epLo8glFuVrxXYGtE8m 
 
 ## Les documents 
@@ -25,5 +26,6 @@ https://huggingface.co/datasets/tblard/allocine
 ## Pour aller plus loin
 
 https://www.youtube.com/c/3blue1brown 
+
 https://pll.harvard.edu/course/cs50-introduction-computer-science
 
