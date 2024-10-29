@@ -2,9 +2,9 @@
 ## Informations utiles
 Sur cette page, vous trouverez toutes les informations utiles pour le cours :
 
-le syllabus,
-les documents associés aux cours,
-les exercices pratiques.
+- le syllabus,
+- les documents associés aux cours,
+- les exercices pratiques.
 
 ## Objectifs du cours 
 L'objectif est de donner aux juristes une culture d’interface, c’est-à-dire une bonne compréhension de l’Intelligence Artificielle (IA) dans ses différentes dimensions — technique, sécuritaire et sociétale — afin de saisir ses implications juridiques.
