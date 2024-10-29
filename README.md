@@ -22,4 +22,7 @@ https://huggingface.co/datasets/tblard/allocine
 
 ## Les modalités d'examen
 
+## Pour aller plus loin
+
+https://www.youtube.com/c/3blue1brown 
 
