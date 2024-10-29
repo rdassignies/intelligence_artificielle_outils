@@ -25,4 +25,5 @@ https://huggingface.co/datasets/tblard/allocine
 ## Pour aller plus loin
 
 https://www.youtube.com/c/3blue1brown 
+https://pll.harvard.edu/course/cs50-introduction-computer-science
 
