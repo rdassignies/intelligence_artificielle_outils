@@ -45,7 +45,7 @@ https://huggingface.co/datasets/tblard/allocine
 
 - Lister tous les documents complémentaires (rapports, études, articles, etc.) qui facilitent la compréhension de la loi et de son contexte, sous la forme d’une liste raisonnée.
 
-- Établir une timeline de la procédure législative.
+- Établir une frise chronologique de la procédure législative.
 
 - Rédiger une synthèse sur la thématique de la « Protection des citoyens dans l’environnement numérique ». Cette synthèse devra inclure les enjeux généraux, les positions clés des différents intervenants au cours de la procédure législative, ainsi qu’une synthèse des résultats finaux (la loi adoptée).
 
