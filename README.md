@@ -37,7 +37,7 @@ https://huggingface.co/datasets/tblard/allocine
 
 ## Les modalités d'examen : devoir à la maison
 
-À partir du dossier législatif de la LOI n° 2024-449 du 21 mai 2024 visant à sécuriser et à réguler l’espace numérique, vous devez extraire les éléments d’analyse suivants :
+À partir du dossier législatif de la LOI n° 2024-449 du 21 mai 2024 visant à sécuriser et à réguler l’espace numérique, et en vous aidant des outils d'intelligence artificielle étudiés en cours, vous devez extraire les éléments d’analyse suivants :
 
 - Fournir un aperçu général de la loi dans le format de votre choix. Cet aperçu doit présenter, en un seul coup d’œil, les principaux enjeux auxquels la réforme répond.
 
