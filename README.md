@@ -30,8 +30,9 @@ https://colab.research.google.com/drive/14CnE-dfNStOE1epLo8glFuVrxXYGtE8m
 [Quatrième partie : Comprendre et utiliser les fonctions en Python](https://colab.research.google.com/drive/1Bz5okzFmVSea7t7g3fc4ngP00RJDfaEK?usp=sharing)
 
 [Cinquième partie : Utilisation des f-strings et intégration avec un modèle de langage (LLM)](https://colab.research.google.com/drive/1vcxMXfRWZncgC1oQCFZWae8mgUrrizrg?usp=sharing)
-## Les documents 
+## Exemples
 
+### Exemples de jeu de données 
 https://huggingface.co/datasets/tblard/allocine 
 
 ## Les modalités d'examen : devoir à la maison
