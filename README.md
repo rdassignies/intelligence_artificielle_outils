@@ -13,10 +13,16 @@ Il vise à fournir aux étudiants des bases techniques pour comprendre et implé
 
 
 ## Les notebooks
+
+### Les notebooks sur la regression linéaire et les réseaux de neurones
 https://colab.research.google.com/drive/1Veq38eBTALfimrhl6BrGo3BTQ-pbMf6B#scrollTo=soeuaBRhGMDU 
 
 https://colab.research.google.com/drive/14CnE-dfNStOE1epLo8glFuVrxXYGtE8m 
 
+## Les notebooks "Cours python"
+
+[Introduction](https://colab.research.google.com/drive/1X3Nq8IRRPNkry30Y365HlVwDrim1oqNE?usp=sharing)
+https://colab.research.google.com/drive/1rS4olyJgrFpeemfuZ-cxiKdEvGm75qDe?usp=sharing
 ## Les documents 
 
 https://huggingface.co/datasets/tblard/allocine 
