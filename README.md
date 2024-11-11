@@ -14,10 +14,14 @@ Il vise à fournir aux étudiants des bases techniques pour comprendre et implé
 
 ## Les notebooks
 
-### Les notebooks sur la regression linéaire et les réseaux de neurones
+### Les notebooks et pages sur la regression linéaire et les réseaux de neurones
 https://colab.research.google.com/drive/1Veq38eBTALfimrhl6BrGo3BTQ-pbMf6B#scrollTo=soeuaBRhGMDU 
 
-https://colab.research.google.com/drive/14CnE-dfNStOE1epLo8glFuVrxXYGtE8m 
+https://colab.research.google.com/drive/14CnE-dfNStOE1epLo8glFuVrxXYGtE8m
+
+https://lab.dassignies.law/pedagogie/regression_lineaire_manuelle/
+
+https://lab.dassignies.law/pedagogie/regression_lineaire_automatique/ 
 
 ## Les notebooks "Cours python"
 
