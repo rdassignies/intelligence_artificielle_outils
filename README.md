@@ -33,6 +33,14 @@ https://drive.google.com/file/d/1MGYT3YKJJ0tqsgGo7u4-IPofz2O2MyT4/view?usp=shari
 Pour aller plus loin: 
 https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://arxiv.org/abs/2312.16171&ved=2ahUKEwihpsrujc-IAxW8RaQEHTEqJSkQFnoECBQQAQ&usg=AOvVaw2VTnQcdmbA2EKCJoFFvWyw
 
+**jailbreak**
+
+https://huggingface.co/datasets/rubend18/ChatGPT-Jailbreak-Prompts
+
+https://learnprompting.org/docs/prompt_hacking/jailbreaking
+
+https://gandalf.lakera.ai/intro?_gl=1*1cglg05*_gcl_au*MjI2NDkwMzYwLjE3MzEzNTk5MjU.
+
 ## Les notebooks
 
 ### Les notebooks et pages sur la regression linéaire et les réseaux de neurones
