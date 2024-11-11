@@ -46,6 +46,8 @@ https://lab.dassignies.law/pedagogie/regression_lineaire_automatique/
 
 ## Les notebooks "Cours python"
 
+Pour lancer des scripts python, vous pouvez utiliser colab pro (nécessite un compte Google) ou https://jupyter.org/try-jupyter/lab/ 
+
 [Introduction](https://colab.research.google.com/drive/1X3Nq8IRRPNkry30Y365HlVwDrim1oqNE?usp=sharing)
 
 [Deuxième partie : Les types de données et la manipulation en Python](https://colab.research.google.com/drive/1rS4olyJgrFpeemfuZ-cxiKdEvGm75qDe?usp=sharing)
