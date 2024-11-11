@@ -59,6 +59,56 @@ https://lab.dassignies.law/pedagogie/regression_lineaire_automatique/
 ### Exemples de jeu de données 
 https://huggingface.co/datasets/tblard/allocine 
 
+## Exercices de prompting
+
+#### Les bonnes pratiques en matière de prompting
+
+Rédiger une fiche de bonnes pratiques en matière de prompting.
+
+Cette fiche doit pouvoir être enregistrée au format PDF pour être réutilisée par la suite.
+
+#### Rédiger un prompt qui illustre la notion de few-shot learning
+
+Vous devez rédiger un prompt qui montre comment anonymiser des données. Pour cela, vous devez fournir au modèle trois exemples d’anonymisation.
+
+#### Rédiger un prompt qui permet d'apprendre la notion de syllogisme juridique
+
+Vous devez rédiger un prompt qui explique et illustre la notion de syllogisme.
+
+La réponse doit être sauvegardée sous forme de fiche, au format PDF, pour vos révisions.
+
+#### Rédiger un prompt pour résumer une notion apprise en cours
+
+À partir d’un extrait d’un de vos cours, faites rédiger une synthèse sous forme de fiche.
+
+Procédez à l’analyse critique de cette fiche et, si besoin, modifiez-la.
+
+Cette fiche doit être sauvegardée au format PDF.
+
+#### Générer une fiche d’arrêt à partir de cet arrêt de la Cour de cassation
+
+Cet exercice illustre la notion de synthèse (résumé) et d’analyse.
+
+[Code de déverrouillage d’un écran de téléphone et cryptologie – Cour de cassation](https://www.courdecassation.fr/toutes-les-actualites/2022/11/07/code-de-deverrouillage-dun-ecran-de-telephone-et-cryptologie)
+
+[Arrêt sur Légifrance](https://www.legifrance.gouv.fr/juri/id/JURITEXT000046583035?init=true&page=1&query=21-83.146&searchField=ALL&tab_selection=all)
+
+#### Générer l’analyse de cet arrêt et la critiquer
+
+Cet exercice illustre la notion d’analyse (syllogisme).
+
+> Mais attendu que si la faute de la victime n'exonère totalement le gardien qu'à la condition de présenter les caractères d'un événement de force majeure, cette exigence est satisfaite lorsque cette faute présente, lors de l'accident, un caractère imprévisible et irrésistible; qu'ayant retenu que la chute de Corinne sur la voie ne pouvait s'expliquer que par l'action volontaire de la victime, que le comportement de celle-ci n'était pas prévisible dans la mesure où aucun des préposés de la RATP ne pouvait deviner sa volonté de se précipiter contre la rame, qu'il n'avait été constaté aucun manquement aux règles de sécurité imposées au transporteur et que celui-ci ne saurait se voir reprocher de ne pas prendre toutes mesures rendant impossible l'action de personnes ayant la volonté de produire le dommage auquel elles s'exposent volontairement, la cour d'appel a décidé à bon droit que la faute commise par la victime exonérait la RATP de toute responsabilité.
+
+#### Cas pratique : Demander à un chatbot de proposer des argumentations opposées
+
+Cet exercice illustre la notion d’analyse.
+
+Les parties se disputent sur la qualification des faits, car de celle-ci découle l’application du droit. Voici des situations juridiques. L’élément de qualification qui oppose les deux parties est également indiqué.
+
+**Exemple** : M. Martel, ingénieur commercial, salarié de la société IBP, refuse de changer de lieu de travail car cela implique qu'il déménage à 800 km de son lieu de résidence habituel. Si la modification est substantielle, elle doit recevoir l'accord exprès du salarié, sinon elle n'est pas valable. Le changement de lieu de travail à plus de 800 km du lieu initialement prévu au contrat constitue-t-il une modification substantielle ou non substantielle du contrat de travail ?
+
+
+
 ## Les modalités d'examen : devoir à la maison
 
 À partir du dossier législatif de la LOI n° 2024-449 du 21 mai 2024 visant à sécuriser et à réguler l’espace numérique, et en vous aidant des outils d'intelligence artificielle étudiés en cours, vous devez extraire les éléments d’analyse suivants :
