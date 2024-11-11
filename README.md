@@ -11,6 +11,23 @@ L'objectif est de donner aux juristes une culture d’interface, c’est-à-dire
 
 Il vise à fournir aux étudiants des bases techniques pour comprendre et implémenter les outils informatiques qu’ils utiliseront au quotidien dans leur pratique professionnelle.
 
+## Les fiches de cours 
+### Les modèles de langage
+
+https://drive.google.com/file/d/13UQluiO1kiZx5gOeRiTP-zVqUvL8SIiV/view?usp=sharing 
+
+### IA, les fondamentaux
+
+https://drive.google.com/file/d/1dsUim_xLJlEjH44FmxNHCwYOVRnVspfb/view?usp=sharing
+
+### Le prompting
+
+https://github.com/rdassignies/prompting (exemples)
+
+https://drive.google.com/file/d/1MGYT3YKJJ0tqsgGo7u4-IPofz2O2MyT4/view?usp=sharing (resumé ) 
+
+Pour aller plus loin: 
+https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://arxiv.org/abs/2312.16171&ved=2ahUKEwihpsrujc-IAxW8RaQEHTEqJSkQFnoECBQQAQ&usg=AOvVaw2VTnQcdmbA2EKCJoFFvWyw
 
 ## Les notebooks
 
