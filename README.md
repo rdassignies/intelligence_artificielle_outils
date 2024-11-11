@@ -1,4 +1,7 @@
-# Intelligence artificielle et outils informatiques
+# Intelligence artificielle et outils informatiques - M1 HEAD
+
+contact : rdassignies [at] protonmail.ch
+
 ## Informations utiles
 Sur cette page, vous trouverez toutes les informations utiles pour le cours :
 
