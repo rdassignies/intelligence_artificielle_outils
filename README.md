@@ -41,6 +41,16 @@ https://learnprompting.org/docs/prompt_hacking/jailbreaking
 
 https://gandalf.lakera.ai/intro?_gl=1*1cglg05*_gcl_au*MjI2NDkwMzYwLjE3MzEzNTk5MjU.
 
+## Les modèles en complément de ChatGPT : 
+
+**Outil notebookLM** : https://notebooklm.google.com/ 
+
+https://mistral.ai/fr/
+
+https://claude.ai
+
+https://mapify.so/fr/app/new
+
 ## Les notebooks
 
 ### Les notebooks et pages sur la regression linéaire et les réseaux de neurones
